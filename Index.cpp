@@ -1,4 +1,5 @@
 #include <iostream>
+#include <ostream>
 using namespace std;
 class Peminjaman {
 public:
